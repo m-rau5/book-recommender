@@ -1,0 +1,43 @@
+Param tests
+
+-----------------------
+
+Rank
+
+rank : 20 maxiter : 180 regparam : 0.8 -> 2.1988
+
+rank : 50 maxiter : 180  regparam : 0.8  -> 2.103
+
+rank : 90 maxiter : 180 regparam : 0.8 -> 2.100248
+
+rank : 130 maxiter : 180 regparam : 0.8 -> 2.0965
+
+rank : 150 maxiter : 180 regparam : 0.8 -> 2.102
+
+--------------------
+
+MaxIter
+
+rank : 130 maxiter : 20 regparam : 0.1 -> 2.2691
+
+rank : 130  maxiter : 50  regparam : 0.1 -> 2.2117
+
+rank : 130  maxiter : 80  regparam : 0.1 -> 2.1823
+
+rank : 130  maxiter : 130  regparam : 0.1 -: 2.1887
+
+rank : 130  maxiter : 180  regparam : 0.1 -: 2.1901
+
+--------------------
+
+RegParam
+
+rank: 130, maxIter: 180, regParam: 0.1, RMSE: 2.1901
+
+rank: 130, maxIter: 180, regParam: 0.2, RMSE: 2.1623
+
+rank: 130, maxIter: 180, regParam: 0.4, RMSE: 2.1195
+
+rank: 130, maxIter: 180, regParam: 0.6, RMSE: 2.0990
+
+rank: 130, maxIter: 180, regParam: 0.8, RMSE: 2.0970

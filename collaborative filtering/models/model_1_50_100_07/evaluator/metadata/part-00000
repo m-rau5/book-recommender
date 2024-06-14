@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.evaluation.RegressionEvaluator","timestamp":1716906936118,"sparkVersion":"3.5.1","uid":"RegressionEvaluator_4589edaad336","paramMap":{"labelCol":"Book-Rating","metricName":"rmse","predictionCol":"prediction"},"defaultParamMap":{"throughOrigin":false,"labelCol":"label","metricName":"rmse","predictionCol":"prediction"}}

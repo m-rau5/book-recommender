@@ -1,0 +1,14 @@
+rank : 20 maxiter : 180 regparam : 0.8 -> 2.1988
+
+rank : 50 maxiter : 180  regparam : 0.8  -> 2.103
+
+rank : 90 maxiter : 180 regparam : 0.8 -> 2.100248
+
+rank : 110 maxiter : 180 regparam : 0.8 -> 2.9832
+
+rank : 130 maxiter : 180 regparam : 0.8 -> 2.0965
+
+--------------------
+rank : 130 maxiter : 20 regparam : 0.1 -> 2.2117
+
+rank : 130 maxiter : 180 regparam : 0.1 -> 2.0965
