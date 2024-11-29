@@ -25,11 +25,11 @@ After pre-processing and merging, we obtained over 2.4k book entries with metada
 
 ## GUI
 
-Collaborative Filtering Recommendations: Get personalized recommendations based on past ratings.
+**Collaborative Filtering Recommendations**: Get personalized recommendations based on past ratings.
 
 <img src="screenshots/collab_filtering_GUI.png" width="640" height="370" />
 
-Content-Based Recommendations: Choose a book you like and get similar suggestions.
+**Content-Based Recommendations**: Choose a book you like and get similar suggestions.
 
 <img src="screenshots/content_based_GUI.png?" width="640" height="370" /> 
 
